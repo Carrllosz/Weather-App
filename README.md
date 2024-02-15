@@ -2,6 +2,7 @@
 
 Site desenvolvido para fornecer previsão do tempo utilizando a API OpenWeatherMap. O principal objetivo do programa é permitir que os usuários obtenham informações precisas sobre o clima de qualquer lugar do mundo.
 
+Obs.: Ao pesquisar pelo nome do local, a foto de fundo muda para alguma foto tirada no local inserido.
 
 ## 👨‍🔬 Tecnologias utilizadas:
 - HTML
